@@ -1,6 +1,6 @@
 # Console-Based Social Network Project in C++
 
-#Overview
+#Overview<br/>
 This console-based social network project is a simple implementation of a social networking system inspired by platforms like Facebook. The project is written in C++ and leverages Object-Oriented Programming (OOP) concepts such as inheritance, polymorphism, encapsulation, and abstraction to achieve a modular and scalable design.
 
 #Features
