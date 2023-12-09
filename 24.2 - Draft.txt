@@ -1,0 +1,87 @@
+class Activity{
+int Type;
+char* value;
+}
+
+class User{
+Post** timeline;
+}
+
+class Date{
+public static Date CurrentDate
+public static SetCurrentDate()
+}
+
+class Page{
+Post** timeline;
+}
+
+class Memory: public Post{
+Post* originalPost;
+}
+class Object{
+char* ID
+}
+class Page: public Object{
+class User: public Object{
+
+class Comment //id, text, commentBy
+class Post{
+
+char* Text;
+Date SharedDate;
+Activity* activity;
+Object* SharedBy;
+Object** LikedBy;
+Comment** comments;
+}
+FB::LoadComment()
+{
+for(eof//12)
+{
+Comment* comment = new Comment;
+fin>>id;
+fin>>postID;
+Post* postPtr = SearchPostByID(postID);
+postPtr->AddComment(comment);
+fin>>CommentBy
+Object* commectBy = SearchObjectByID
+fin>>text;
+comment->SetValues(id,text,CommentBy);
+}
+}
+FB::LoadPost()
+{
+for(){
+posts[i]->LoadDataFromFile()
+fin>>ui or pi
+Object* sharedBy = fb.SearchObjectByID(uiOrPi)
+posts[i]->SetSharedBy(sharedBy);
+sharedBy->AddPostToTimeline(posts[i])
+
+}
+}
+posts[i]->LoadDataFromFile()
+{
+fin>> 1/2
+fin>>id
+sharedDate.ReadFromFile()
+fin>>txt
+if(2)
+activity = new activity
+activity->ReadFromFile()
+//back to fb scope
+}
+
+fb.LoadData()
+{
+LoadUser()
+LoadPost()
+LoadComment()
+}
+main
+{
+fb.LoadData()
+currUser->ViewHome()//
+}
+
