@@ -7,6 +7,9 @@ This console-based social network project is a simple implementation of a social
 - polymorphism
 - encapsulation
 - abstraction
+- aggregation
+- association
+- composition
 
 ## Features
 
