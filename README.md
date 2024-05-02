@@ -16,10 +16,12 @@ This console-based social network project is a simple implementation of a social
 - Profile Management
 - News Feed
 
+
 ## Clone the Repository
 
 ```bash
 git clone https://github.com/maazkhan75/Social-Network-App.git
+```
 
 ## Contact
 For questions or feedback, please contact maazkhan75555@gmail.com.
