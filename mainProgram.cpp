@@ -1,5 +1,5 @@
-////// OOP___SOCIAL_NETWORK__PROJECT____L22-6726
-//// DISCLAMER -> ALL RIGHTS RESERVED BY OWNER______MAAZ KHAN
+////// SOCIAL_NETWORK__PROJECT
+////// DISCLAMER -> ALL RIGHTS RESERVED BY OWNER______MAAZ KHAN
 //
 //#include<iostream>
 //#include<fstream>
