@@ -21,7 +21,7 @@ This console-based social network project is a simple implementation of a social
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## 📥 Clone the Repository
 
