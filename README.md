@@ -31,3 +31,19 @@ git clone https://github.com/maazkhan75/Social-Network-App.git
 
 ## 📬 Contact
 For questions or feedback, please contact maazkhan75555@gmail.com.
+
+## 📸 Screenshots
+
+
+![](screenShots/1.png)
+![](screenShots/2.png)
+![](screenShots/3.png)
+![](screenShots/4.png)
+![](screenShots/5.png)
+![](screenShots/6.png)
+![](screenShots/7.png)
+![](screenShots/8.png)
+![](screenShots/9.png)
+![](screenShots/10.png)
+![](screenShots/11.png)
+
