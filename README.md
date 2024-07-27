@@ -34,7 +34,6 @@ For questions or feedback, please contact maazkhan75555@gmail.com.
 
 ## 📸 Screenshots
 
-
 ![](screenShots/1.png)
 ![](screenShots/2.png)
 ![](screenShots/3.png)
