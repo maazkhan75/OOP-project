@@ -26,7 +26,7 @@ This project is licensed under the MIT License.
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/maazkhan75/Social-Network-App.git
+git clone https://github.com/maazkhandev75/Social-Network-App.git
 ```
 
 ## 📬 Contact
